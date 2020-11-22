@@ -84,6 +84,10 @@ nav{
     height: 350px;
     
 }
+.landpage3 #inline .line{
+    border-right: 1px solid silver;
+     margin-top: 80px;
+}
 .landpage3 #inline .FEUGIAT-TEMPUS>h2{
     
     font-family: sans-serif;
