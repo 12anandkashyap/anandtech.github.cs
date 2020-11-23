@@ -508,7 +508,7 @@ nav{
 
 
 
-@media screen and (max-width:520px)
+@media screen and (min-width: 481px) and (max-width: 767px)
 {
 
  nav{
