@@ -508,7 +508,7 @@ nav{
 
 
 
- @media all and (max-width:30em)
+ @media and (max-width: 768px)
 {
 
  nav{
