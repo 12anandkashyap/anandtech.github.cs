@@ -1,33 +1,77 @@
 <html>
-<head>
-    <title>
-       AANAND KASHYAP
-    </title>
-    <link rel="stylesheet" type="text/css" href="index.css">
+ <head>
+    <title>Aanand kashyap</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" type="text/css" href=index.css>
     </head>
-    
+
 <body>
-    <nav>
-         <div class="navigation-logo">
-           <a href="#">AANAND TECH</a>
+    <div class="container">
+       <div class="navbar">
+           <h1>AANANDTECH</h1>
+           <nav>
+              <ul id="menulist">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Gallery</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Employee</a></li>
+                  <li><a href="#">About-us</a></li>
+               
+               
+                  
+               
+               </ul>
+           
+           </nav>
+           
+           <img src="menuicon.png" class="menu-icon" onclick="togglrmenu()">
+          
         </div>
         
-          
-        <div class="navigation-bar">  
+
+        
+        
+        
+        <div class="row">
+               <div class="col-1">
+                  <h3>Hello,I'm<br></h3>
+                   <h2>Anand kashyap</h2>
+                   <h4>I'm a Front End web developer</h4>
+                   <p style="line-height: 26px;">"It has become appallingly obious that our technology has exceeded our humanity."...</p>
+                   
+                <button class="button">Register</button>
+                <button class="button">Subscribe-us</button> 
             
-            <a href="#">HOMEPAGE</a>
-            <a href="#">GALLARY</a>
-            <a href="#">SERVICES</a>
-            <a href="#">ABOUT-US</a>
+               </div>
+               
+               <div class="col-2">
+                    <img src="man.jpg" class="controller">
+                    
+             </div>
+            <div class="color-box"></div>
         </div>
-     </nav>
- 
-                 
-         
-<section class="landpage2">
-     <img src="ear.jpg">
-    </section>
+        
+        
+     </div>
     
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
     
     <section class="landpage3">
         
@@ -300,6 +344,24 @@
     </section>
     </section>
     
+    
+    <script>
+         var menulist =document.getElementById("menulist");
+         menulist.style.maxHeight = "0px";
+         function togglrmenu(){
+             if(menulist.style.maxHeight == "0px")
+                 {
+                     menulist.style.maxHeight = "130px";
+                     
+                 }
+             else{
+                 menulist.style.maxHeight = "0px";
+             }
+         }
+        
+    
+    
+    </script>
     
     
     
