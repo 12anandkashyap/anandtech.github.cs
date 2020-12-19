@@ -16,6 +16,7 @@
     overflow: hidden;
     
     
+    
 
 }
 .navbar{
@@ -150,431 +151,546 @@ button:hover{
 }
 
 
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Landpage2a-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
 
-
-
-
-.landpage3{
+.landpage2{
     width: 100%;
-    height:480px;
-    
-    
-}
-.landpage3 #inline{
-    width: 300px;
-    height: 354px;
-    
-    float: left;
-    position: relative;
-    left: 80px;
-    margin-top: 60px;
-    padding-left: 6px;
-    
-    
-    
-}
-.landpage3 #inline>h2{
-    font-family: sans-serif;
-    font-weight: normal;
-    
-    
-}
-.landpage3 #inline>p{
-    font-family: sans-serif;
-    margin-top: 20px;
-    line-height: 24px;
-    
-}
-.landpage3 #inline>img{
-    width: 280px;
-    height: 138px;
-    margin-top: 20px;
-}
-.landpage3 #inline>a{
-    font-family: sans-serif;
-    position:relative;
-    top: 40px;
-    background-color: orangered;
-    text-decoration: none;
-    padding-left:20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: white;
-    border-radius: 4px;
-}
-.landpage3 #inline>a:hover{
-    background-color: crimson;
-}
-
-
-
-
-.landpage4{
-    width: 100%;
-    height: 800px;
-}
-
-.landpage4  .writing{
-    float: left;
-    
-    position: relative;
-    
-    margin-left: 50px;
-    
-    
-}
-.landpage4  .writing .gravida{
-    width:650px;
-    
-    
-    font-family: sans-serif;
-    font-size: 40px;
-    font-weight: normal;
-}
-.landpage4  .writing .h2{
-    width: 650px;
-    font-family: sans-serif;
-    font-weight: normal;
-    margin-top: 20px;
-    
-}
-.landpage4  .writing .text{
-    width: 650px;
-    font-family: sans-serif;
-    font-weight: normal;
-    margin-top: 20px;
-    line-height: 25px;
-}
-.landpage4 .writing .text2{
-    width: 650px;
-    font-family: sans-serif;
-    font-weight: normal;
-    margin-top: 20px;
-    line-height: 25px;
-    
-}
-.landpage4 .writing .text3{
-    width: 650px;
-    font-family: sans-serif;
-    font-weight: normal;
-    margin-top: 20px;
-    line-height: 25px;
-}
-.landpage4 .writing>a{
-    text-decoration: none;
-    font-family: sans-serif;
-    color: white;
-    background-color: orangered;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-radius: 5px;
-    position: relative;
-    top: 40px;
-    
-}
-.landpage4  .writing .hh{
-    font-family: sans-serif;
-    font-weight: normal;
-    
-}
-
-.landpage4 .writing .www{
-    width: 260px;
     height: 400px;
-    
-}
-.landpage4 .writing .www .float{
-    width: 260px;
-    
-    
-    float: left;
-    margin-bottom: 40px;
-    margin-top: 20px;
-    
-    
-    
-}
-.landpage4  .writing .www .float .left{
-    float: right;
-    
-
-}
-.landpage4 .writing .www .float .left>p{
-    font-family: sans-serif;
-    font-weight: normal;
-    line-height: 26px;
-    color: black;
-
-}
-.landpage4  .writing .arrow{
-    width: 260px;
-    height: 600px;
-    
-    
-    
-    
-}
-.landpage4 .writing .arrow .anchor .hrrd{
-    
-    border-bottom: 1px solid silver;
-}
-
-
-
-.landpage4 .writing .arrow .anchor .hhh{
-    font-family: sans-serif;
-    margin-top: 20px;
-    font-weight: normal;
-}
-.landpage4 .writing .arrow .anchor>a{
-    font-family: sans-serif;
-    font-weight: normal;
-    color: red;
-    line-height: 54px;
-    
-    
-}
-
-
-/*--------------------------------------------------Landpage-5---------------------------------------------------------*/
-
-
-
-.landpage5{
-    width: 100%;
-    min-height:100%;
-    background-image:url(img01.jpg);
-    
-}
-
-
-.landpage5  #platein{
-    width: 360px;
-    height: 240px;
-    background-color: white;
-    margin: 25px;
-    float: left;
-    margin-top: 60px;
-    position: relative;
-    left: 60px;
-}
-.landpage5  #platein>img{
-    width: 200px;
-    height: 210px;
-    padding: 20px;
-    float: left;
-}
-.landpage5  #platein>p{
-    width: 150px;
-    height: 240px;
-    float: left;
-    padding:10px;
-    padding-top: 20px;
-    line-height: 28px;
-}
-.landpage5  #platein .pkad{
-    
-}
-.landpage5 #platein .pkad{
-    font-family: sans-serif;
-    text-decoration: none;
-    background-color:orangered;
-    position: relative;
-    top: 24px;
-    color: white;
-    padding-top: 14px;
-    padding-bottom: 14px;
-    padding-left:24px;
-    padding-right: 24px;
-    border-radius:6px ;
-}
-.landpage5  #platein .pkad:hover{
-    background-color:crimson;
-    transition:1s;
-}
-
-
-/*---------------------------------------------Landpage #plate2--------------------------------------------------------*/
-
-
-
-.landpage5 #platein2{
-    width: 280px;
-    height: 480px;
-    background-color: nav;
-    float: left;
-    margin: 20px;
-    position: relative;
-    left: 30px;
-    
-    
-} 
-.landpage5  #platein2 .head{
-    
-    margin-top: 20px;
-    color: white;
-    font-family: sans-serif;
-    font-weight: 400;
-}
-.landpage5 #platein2 .para{
-    width: 280px;
-    height: 360px;
-    background-color: white;
-    margin-top: 40px;
-    border-radius: 6px;
-}
-.landpage5 #platein2 .para>p{
-    font-family: sans-serif;
-    padding: 20px;
-    line-height: 46px;
-    font-size: 20px;
-}
-.landpage5 #platein2 .para>h3{
-    font-family: sans-serif;
-    margin-left: 40px;
-    margin-top: 10px;
-    font-weight:200px;
-    
-}
-.landpage5 #platein2>h4{
-    margin-top: 32px;
-    color:darkgray;
-    font-family: sans-serif;
-    font-weight:normal;
-    line-height: 28px;
-}
-
-.landpage5 #platein2>p{
-    
-    font-family: sans-serif;
-    line-height: 20px;
-    font-size: 14px;
-    color:gray;
-    
-}
-.landpage5 #platein2 .thired{
-    color:gray;
-    margin-top: 32px;
-    font-family: sans-serif;
-    color:gray;
-    font-size: 14px;
-    line-height: 24px;
-}
-
-
-
-
-
-.landpage5 #platein2 .image>img{
-    width: 88px;
-    height: 80px;
-    float: left;
-    padding: 4px;
-    margin-left: 4px;
-    margin-top: 20px;
-    
-    
-    
-}
-
-
-.landpage5 #platein2 .image2>img{
-    width: 88px;
-    height: 80px;
-    float: left;
-    padding: 4px;
-    margin-left: 4px;
-}
-
-.landpage5 #platein2>a{
-    color: white;
-    text-decoration: none;
-    font-family: sans-serif;
-    position: relative;
-    top: 44px;
     background-color: orangered;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-radius: 6px;
-    
 }
-.landpage5 #platein2>a:hover{
-    background-color:crimson;
-    transition: 1s;
-}
-
-
-.landpage5 #platein2 .paraa{
-    font-weight:bold;
-    font-family: sans-serif;
-    margin-top: 32px;
-}
-
-.landpage5 #platein2 #two{
-    font-family: sans-serif;
-     margin-top: 14px;
-    color: gray;
-    line-height: 24px;
-    
-}
-.landpage5 .founder{
-    width: 100%;
-    height: 140px;
-    background-color: gree;
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-    
-}
-
-
-.landpage5 .founder .socialmedia>img{
-    width: 140px;
-    height: 140px;
-    border-radius: 80px;
-
-    
-}
-.landpage5>h4{
+.landpage2>h3{
     text-align: center;
     color: white;
-    font-family: sans-serif;
-    font-weight: bold;
-    margin-top: 4px;
+    position: relative;
+    top: 100px;
+    
+}
+.landpage2>h5{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 160px;
+    line-height: 32px;
+    
 }
 
 
-.landpage5 .facebook{
+.landpage2a{
     width: 100%;
-    height: 40px;
-    background-color: re;
-    margin-top: 14px;
-    display: flex;
+    height:540px;
+    background-color: burlywd;
+    
+}
+.landpage2a::after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+.landpage2a>h1{
+    text-align: center;
+    margin-top: 40px;
+    color:black;
+    font-family: sans-serif;
+    font-size: 28px;
+    
+}
+.landpage2a .secvices{
+    
+    
+    float: left;
     justify-content: center;
-    padding: px;
+    border:2px solid red;
+    padding-left: 56px;
+    padding-top: 10px;
+    position: relative;
+    left: 14%;
+    margin: 30px;
+    top: 60px;
+    
+    width: 254px;
+    height: 260px;
+    
+    
 }
 
-.landpage5 .facebook>a>img{
-    width: 40px;
-    height: 40px;
-    border-radius: 8px;
-    padding: 4px;
-}
-
-
-
-.landpage5 .footer{
+.landpage2a .secvices>p{
     margin-top: 20px;
+    
+}
+  .landpage2a .secvices::after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+.landpage2a .secvices:hover{
+    background-color:orangered;
+    color: white;
+    margin-top:  44px;
+    transition: 0.5s ease;
+    border-top-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EndofLandpage2a------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Landpage3a-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.landpage3a{
+  display: grid;
+  height: 640px;
+  place-items: center;
+  background:orangered;
+}
+.landpage3a>h1{
+    color: white;
+    font-size: 34px;
+}
+::selection{
+  color: #fff;
+  background: #6665ee;
+}
+.skill-bars{
+  margin-bottom: 60px;    
+  padding: 25px 30px;
+  width:700px;
+  background: #fff;
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+.skill-bars .bar{
+  margin: 20px 0;
+}
+.skill-bars .bar:first-child{
+  margin-top: 0px;
+}
+.skill-bars .bar .info{
+  margin-bottom: 5px;
+}
+.skill-bars .bar .info span{
+  font-weight: 500;
+  font-size: 17px;
+  opacity: 0;
+  animation: showText 0.5s 1s linear forwards;
+}
+@keyframes showText {
+  100%{
+    opacity: 1;
+  }
+}
+.skill-bars .bar .progress-line{
+  height: 10px;
+  width: 100%;
+  background: #f0f0f0;
+  position: relative;
+  transform: scaleX(0);
+  transform-origin: left;
+  border-radius: 10px;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.05),
+              0 1px rgba(255,255,255,0.8);
+  animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;
+}
+@keyframes animate {
+  100%{
+    transform: scaleX(1);
+  }
+}
+.bar .progress-line span{
+  height: 100%;
+  position: absolute;
+  border-radius: 10px;
+  transform: scaleX(0);
+  transform-origin: left;
+  background:green;
+  animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
+}
+.bar .progress-line.html span{
+  width: 80%;
+}
+.bar .progress-line.css span{
+  width: 60%;
+}
+.bar .progress-line.javascript span{
+  width: 20%;
+}
+.bar .progress-line.Bootstrap span{
+  width: 6%;
+}
+.bar .progress-line.mysql span{
+  width: 20%;
+}
+.progress-line span::before{
+  position: absolute;
+  content: "";
+  top: -10px;
+  right: 0;
+  height: 0;
+  width: 0;
+  border: 7px solid transparent;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-color: #000;
+  opacity: 0;
+  animation: showText2 0.5s 1.5s linear forwards;
+}
+.progress-line span::after{
+  position: absolute;
+  top: -28px;
+  right: 0;
+  font-weight: 500;
+  background: #000;
+  color: #fff;
+  padding: 1px 8px;
+  font-size: 12px;
+  border-radius: 3px;
+  opacity: 0;
+  animation: showText2 0.5s 1.5s linear forwards;
+}
+@keyframes showText2 {
+  100%{
+    opacity: 1;
+  }
+}
+.progress-line.html span::after{
+  content: "80%";
+}
+.progress-line.css span::after{
+  content: "60%";
+}
+.progress-line.javascript span::after{
+  content: "20%";
+}
+.progress-line.Bootstrap span::after{
+  content: "20%";
+}
+.progress-line.mysql span::after{
+  content: "12%";
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EndofLandpage3a------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Landpage4a-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.landpage4a{
+    width: 100%;
+    height: 680px;
+    background-color:black;
+    
+    
+    
+    
+}
+.landpage4a>h1{
+    text-align: center;
+    font-size: 44px;
+    color:white;
+     padding-top: 40px;
+    
+}
+.landpage4a .project{
+    position: relative;
+    left: 10%;
+    top: 6%;
+    
+}
+.landpage4a .project .th1{
+    width: 420px;
+    height: 240px;
+   padding: 10px;
+    
+}
+.landpage4a .project .th2{
+    width: 620px;
+    height: 240px;
+    padding: 10px;
+}
+.landpage4a .project .th3{
+    width: 620px;
+    height: 240px;
+    padding: 10px;
+}
+.landpage4a .project .th4{
+    width: 420px;
+    height: 240px;
+    padding: 10px;
+}
+.landpage4a .project .thhover:hover{
+    background-color:crimson;
+}
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EndofLandpage4a------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Landpage5a-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.landpage5a{
+    width: 100%;
+    height: 720px;
+    background-color:burlywd;
+}
+
+.landpage5a .Pricingplan{
+    text-align: center;
+    color:gray;
+    font-size: 24px;
+    padding-top: 60px;
+    
+}
+.landpage5a .Affordableprice{
+    text-align: center;
+    font-size: 48px;
+    color: black;
+    padding-top: 20px;
+}
+.landpage5a .Rupees{
+    float: left;
+    padding: 20px;
+    width: 310;
+    height: 480px;
+    background-color: rd;
+    position:relative;
+    left: 10%;
+    margin: 20px;
+    margin-top: 40px;
+    border: 2px solid red;
+}
+.landpage5a .BASIC{
+    text-align: center;
+    font-size: 26px;
+}
+.landpage5a .STANDARD{
+    text-align: center;
+    color:crimson;
+    font-size:  26px;
+    
+}
+.landpage5a .PREMIUM{
+    text-align: center;
+    font-size: 26px;
+}
+.landpage5a .Rupees .price1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color:darkslategrey;
+}
+.landpage5a .Rupees .price2{
+    text-align: center;
+    font-size: 36px;
+    color: crimson;
+    font-weight: bold;
+    
+}
+.landpage5a .Rupees .detail{
+    text-align: center;
+    color: darkgrey;
+    line-height: 38px;
+    margin-top: 38px;
+}
+.landpage5a .Rupees .OrderNow1{
+    position: relative;
+    top: 60px;
+    left: 76px;
+    text-decoration: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: darkslategrey;
+    color: white;
+}
+.landpage5a .Rupees .OrderNow2{
+    position: relative;
+    top: 60px;
+    left: 76px;
+    text-decoration: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:crimson;
+    color: white;
+}
+.landpage5a .Rupees .OrderNow1:hover{
+    border: 2px solid  darkslategrey;
+    background-color: white;
+    color: darkslategrey;
+}
+.landpage5a .Rupees .OrderNow2:hover{
+    border: 2px solid crimson;
+    background-color: white;
+    color:crimson;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EndofLandpage5a------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------Landpage6a--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.landpage6a{
+    width: 100%;
+    height: 600px;
+    background-color:darkslategrey;;
+    
+}
+.landpage6a .getintouch1{
+    float: left;
+    width: 320px;
+    height: 340px;
+    background-color: rd;
+    margin-top: 80px;
+    margin-left: 110px;
+    
+}
+.landpage6a .getintouch1>img{
+    width: 240;
+    height: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.landpage6a .getintouch1 .Read{
+    position: relative;
+    top:20px;
+    text-decoration: none;
+    color: white;
+}
+.landpage6a .getintouch1 .Read:hover{
+    color: blue;
+}
+.landpage6a .getintouch2{
+    float: left;
+    width: 320px;
+    height: 280px;
+    background-color:yellw;
+    margin-top: 80px;
+    margin-left:  40px;
+}
+.landpage6a .getintouch2>p{
+    font-size: 28px;
+    color: white;
+    font-family:cursive;
+}
+.landpage6a .getintouch2 .Emailid{
+    font-size: 16px;
+    color: white;
+    margin-top: 20px;
+    font-family: serif;
+}
+.landpage6a .getintouch2 .icon{
+    width:46px;
+    height: 46px;
+    margin-top: 40px;
+    padding: 6px;
+}
+.landpage6a .getintouch3{
+    float: left;
+    width: 420px;
+    height: 380px;
+    background-color: rd;
+    margin-top: 80px;
+    margin-left:  40px;
+}
+.landpage6a .getintouch3>p{
+    font-size: 28px;
+    color: white;
+    font-family:cursive;
+}
+.landpage6a .getintouch3 .inputname{
+    width: 200px;
+    height: 46px;
+    margin: 2px;
+}
+.landpage6a .getintouch3 .message{
+    margin-top: 40px;
+    width: 420px;
+    height: 80px;
+}
+.landpage6a .getintouch3 .Submit{
+    position: relative;
+    top: 40px;
+    background-color: crimson;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 34px;
+    padding-right: 34px;
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    
+    
+}
+.landpage6a .getintouch3 .Submit:hover{
+    background-color: chocolate;
+    transition: 0.5s;
+}
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------EndofLandpage6a---------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Footer---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: black;
     display: flex;
     justify-content: center;
+    align-items:center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------Media quary For Mobile----------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
@@ -647,9 +763,170 @@ button:hover{
     .container{
         width: 100%;
         height: 840px;
+        
     }
+    .landpage2{
+        width: 100%;
+        height: 500px;
+    }
+    .landpage2>h3{
+        text-align: center;
+        
+    }
+    .landpage2>h5{
+        line-height: 28px;
+        font-size: 16px;
+    }
+    
+    
+    
+    .landpage3{
+        width: 100%;
+        height: 1800px;
+        
+        
+    }
+    .landpage2a{
+        width: 100%;
+        height: 1200px;
+        
+        
+        
+    }
+    .landpage2a .secvices{
+        
+        position:relative;
+        left: 24px;
+        margin-right: 80px;
+        
+    }
+    .landpage2a .secvices::after{
+     content: " ";
+     display: block;
+     clear: both;
 }
 
+    
+    
+    
+    .landpage4{
+        width: 100%;
+        height: 1680px;
+        background-color: blue;
+    }
+    .landpage4 .writing{
+        width: 100%;
+        float: none;
+        
+    }
+    .landpage3a{
+        
+        width: 100%;
+        
+    }
+    .skill-bars{
+        width: 300px;
+        height: 400px;
+    }
+    .landpage4a{
+        height: 1200px;
+        
+    }
+    .landpage4a .project .th1{
+        width: 100%;
+        margin-left: -36px;
+        
+        
+    }
+    
+    .landpage4a .project .th2{
+        width: 100%;
+        margin-left: -36px;
+    }
+    .landpage4a .project .th3{
+        width: 100%;
+        margin-left: -36px;
+        
+        
+    }
+    
+    .landpage4a .project .th4{
+        width: 100%;
+        margin-left: -36px;
+    }
+    .landpage5a{
+        height:1880px;
+    }
+    .landpage5a .Rupees{
+        left: 6px;
+        
+    }
+    .landpage6a{
+        height: 1460px;
+    }
+    .landpage6a .getintouch1{
+        position: relative;
+        left: -74px;
+    }
+    .landpage6a .getintouch1>img{
+        padding-left: 40px;
+    }
+    .landpage6a .getintouch1>a{
+        padding-left: 20px;
+        
+    }
+    
+    .landpage6a .getintouch2{
+        position: relative;
+        right: 20px;
+        margin-top: 28px;
+    }
+    .landpage6a .getintouch2>p{
+        text-align: center;
+    }
+    .landpage6a .getintouch2 .icon{
+        position: relative;
+        left: 46px;
+    }
+     .landpage6a .getintouch3{
+        width: 100%;
+        height: 610px;
+        position: relative;
+        right: 41px;
+        background-color: rd;
+    }
+    .landpage6a .getintouch3>p{
+        text-align: center;
+    }
+    
+    .landpage6a .getintouch3 .inputname{
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+    .landpage6a .getintouch3 .message{
+        width: 100%;
+        height: 110px;
+        
+    }
+    .landpage6a .getintouch3 .Submit{
+        position: relative;
+        left: 120px;
+        top: 80px;
+        
+    }
+    .footer small{
+        width: 100%;
+        position: relative;
+        
+    }
+    
+    
+}
+
+
+ 
+    
+    
 
 
  
