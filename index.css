@@ -618,6 +618,7 @@ button:hover{
     height: 46px;
     margin-top: 40px;
     padding: 6px;
+    border-radius:6px;
 }
 .landpage6a .getintouch3{
     float: left;
@@ -648,11 +649,11 @@ button:hover{
     background-color: crimson;
     padding-top: 16px;
     padding-bottom: 16px;
-    padding-left: 34px;
-    padding-right: 34px;
+    padding-left: 36px;
+    padding-right: 36px;
     text-decoration: none;
     color: white;
-    border-radius: 6px;
+    border-radius: 4px;
     
     
 }
