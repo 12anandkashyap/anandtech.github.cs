@@ -857,10 +857,17 @@ button:hover{
     .landpage5a{
         height:1880px;
     }
+    .landpage5a .Affordableprice{
+    text-align: center;
+    font-size: 38px;
+    color: black;
+    padding-top: 20px;
+}
     .landpage5a .Rupees{
         left: 6px;
         
     }
+    
     .landpage6a{
         height: 1460px;
     }
